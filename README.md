@@ -3,8 +3,9 @@
     <meta charset="utf-8">
       <style>
         h1 {
-      https://placehold.it/150/ffffff/ff0000?text=So uh }
+      }
       </style>
+     https://placehold.it/150/ffffff/ff0000?text=Welcome
   </head>
     <body>
     
